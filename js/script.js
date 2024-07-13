@@ -41,3 +41,5 @@ if (selectAge === null) {
     alert(`Your age is ${age}`);
   }
 }
+const result = `Your name is ${name}, your surname is ${surName}, your age is ${age}`;
+console.log(result);
